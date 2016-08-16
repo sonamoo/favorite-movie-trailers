@@ -1,7 +1,7 @@
 # Favorite Movie Trailer
 
-This is a first project for a [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)
-It uses a fresh tomates API to generate a static website displaying movies lists and links to the youtube movie trailer video.
+This is a first project for a [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
+It uses a fresh tomates API to generate a static website displaying movies' lists and links to the youtube movie trailer videos.
 
 
 ## Python is required
